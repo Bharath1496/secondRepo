@@ -1,5 +1,6 @@
 <html>
 <body>
+<<<<<<< HEAD
 <h1>All the power is within you</h1>
 <h2>your destiny is in your hands , choose wisely</h2>
 </body>
